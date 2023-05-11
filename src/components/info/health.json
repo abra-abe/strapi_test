@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_info_health",
+  "info": {
+    "displayName": "Health",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Age": {
+      "type": "integer",
+      "required": true
+    },
+    "BloodGroup": {
+      "type": "string",
+      "required": true
+    },
+    "Weight": {
+      "type": "integer"
+    }
+  }
+}
